@@ -2,4 +2,4 @@
 [Patika.dev](https://app.patika.dev/ozanbyrm)
 
 ## Ödev Resmi
-![Ödev resim](/assets/2022-11-02.png)
+![Ödev Resim](/images/2022-11-02%20(2).png)
